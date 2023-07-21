@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01.HelloWorld;
+namespace _01.Hello_World;
 
-public partial class NotePage : ContentPage
+public partial class ResourcesPage : ContentPage
 {
-    public NotePage()
+    public ResourcesPage()
     {
         InitializeComponent();
     }
